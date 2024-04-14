@@ -10,13 +10,13 @@ Members:
 
 Instruction to run the code 
 
-- Supervised Leraning
+- Supervised Leraning: 
 To run this code you need to extract the archive folder and change the path accordingly and then run all
 
-- Unsupervised Learning 
+- Unsupervised Learning: 
 To run this code you need to extract the archive folder, change the path accordingly and run all
 
-- State of the art_Experiment
+- State of the art_Experiment: 
 To run this code you need to extract the archive folder, change the path accordingly and run all
 
 
